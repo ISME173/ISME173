@@ -22,5 +22,10 @@
 ![capture_20241128195315662](https://github.com/user-attachments/assets/d2b5daee-9798-4634-a876-60250320b5b7)
 Ссылка на игру: [тык](https://yandex.ru/games/app/390393?lang=ru).
 Ссылка на репозиторий: [тык](https://github.com/ISME173/Halloween-ghosts).
-
+## "Шёпот по тьме"
+Игра, на подобии Granny. Так же хоррор, так же бродилка по дому, в поисках ключей. Создана под ПК, но так же есть версия под Android, которую я никуда не выложил, а потому, и здесь её не будет.
+![capture_20241102171552011](https://github.com/user-attachments/assets/2568f25d-20a1-4eb7-8f66-e89447469cd9)
+![capture_20250107224627046](https://github.com/user-attachments/assets/cab777b1-bbc5-4fd5-ba15-998df1ecaff7)
+![capture_20250107224554393](https://github.com/user-attachments/assets/8dc426fc-8f70-443c-a396-126eca14322e)
+Ссылка на игру: [тык](https://isme173.itch.io/whispers-in-the-dark)
 
