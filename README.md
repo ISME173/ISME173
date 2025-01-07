@@ -19,4 +19,4 @@
 Она переведена на английский, русский и турецкий.
 ![capture_20241128195337190](https://github.com/user-attachments/assets/cf3acdd6-690b-4345-800f-5433eaa03f02)
 ![capture_20241128195315662](https://github.com/user-attachments/assets/d2b5daee-9798-4634-a876-60250320b5b7)
-Ссылка на игру: [GitHub Pages](https://pages.github.com/).
+Ссылка на игру: [тык](https://yandex.ru/games/app/390393?lang=ru).
