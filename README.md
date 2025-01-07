@@ -30,3 +30,5 @@
 ![capture_20250107224554393](https://github.com/user-attachments/assets/8dc426fc-8f70-443c-a396-126eca14322e)
 Ссылка на игру: [тык](https://isme173.itch.io/whispers-in-the-dark)
 
+## Скоро допишу
+
