@@ -34,3 +34,34 @@
 ![capture_20240822134616390](https://github.com/user-attachments/assets/413e67fc-f204-4d92-8027-3ae600cdaf66)
 ![capture_20240822131740923](https://github.com/user-attachments/assets/16d0bc54-7344-463a-8040-aac1d5ba3ab4)
 Ссылка на игру: [тык](https://isme173.itch.io/zombie-town-escape)
+## Безымянный мини-кликер
+Мини-кликер, созданый за 2 дня. Создавался с целью отвлечься от другого проекта. Создан достаточно криво, но имеет место быть в портфолио.
+
+![photo_2025-01-08_13-08-17](https://github.com/user-attachments/assets/c023e280-e38f-4354-819b-531ed81471d1)
+![photo_2_2025-01-08_13-04-41](https://github.com/user-attachments/assets/f440f13a-3c09-496e-9922-338a42cf1b21)
+
+Игра никуда не выложена, поэтому дать ссылку не смогу. При необходимости, могу дать доказательства того, что это моя игра.
+
+## "Little Knight" 
+Небольшой платформер на 10 уровней. Игра выложена на яндекс игры, но срок нахождения её там истёк, поэтому ссылка не будет работать.
+Она создана под ПК и Android, как веб-игра, но есть и полноценный билд под Android. Это 2 моя игра на Unity.
+Пусть она и не без багов, но я всё ровно очень настольгирую, когда перепрохожу её.
+
+![photo_3_2025-01-08_13-19-24](https://github.com/user-attachments/assets/9510e8c7-4daa-4730-ab96-5e241459f277)
+![photo_2_2025-01-08_13-19-24](https://github.com/user-attachments/assets/42b55599-7b1e-43a2-a9ba-5215c6c451c1)
+![photo_1_2025-01-08_13-19-24](https://github.com/user-attachments/assets/6fe1a3ca-32a2-4b66-ba4b-96841c9f27b9)
+
+Так как ссылка на Яндекс игры не действительна, я залил файл с игрой на DropBox, чтоб иметь возможность отправить вам ссылку на неё.
+Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/b3jt1t13u1gz7yo8fhjkw/base.apk?rlkey=yyn3oay8k5j6o6luh81ok8nok&st=55se0wi4&dl=0)
+
+Нажмите скачать, сразу после перехода на сайт.
+
+## "Happy ball"
+Самая первая моя игра. Как и полагается, с кучей багов. Игра под Android, никуда не выложена, поэтому также приложу ссылку на DropBox.
+
+![photo_2_2025-01-08_13-56-33](https://github.com/user-attachments/assets/a29caa06-adf7-4e95-8f2c-74cb757a2093)
+![photo_1_2025-01-08_13-56-33](https://github.com/user-attachments/assets/ee8c230c-77af-4a75-949d-a1848a121be4)
+
+Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/vm3kr4habamcti1qiau69/base-3.apk?rlkey=vtcydvskigzf5m3ien789axw5&st=mbeb69kv&dl=0)
+
+Нажмите скачать, сразу после перехода на сайт.
