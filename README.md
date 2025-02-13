@@ -51,7 +51,7 @@
 ![capture_20250107224627046](https://github.com/user-attachments/assets/cab777b1-bbc5-4fd5-ba15-998df1ecaff7)
 ![capture_20250107224554393](https://github.com/user-attachments/assets/8dc426fc-8f70-443c-a396-126eca14322e)
 
-**Ссылка на десктопную версию игры на Itch.io: [тык](https://isme173.itch.io/whispers-in-the-dark)**
+**Ссылка на Windows версию игры на Itch.io: [тык](https://isme173.itch.io/whispers-in-the-dark)**
 
 **Ссылка на Android версию игры на DropBox: [тык](https://www.dropbox.com/scl/fi/sppsplau7wkjqoqc44ni4/Whispers-in-the-dark.apk?rlkey=0ovslo6g69c2p0i08y3t7mp6o&st=k0xrqzxt&dl=0)**
 
