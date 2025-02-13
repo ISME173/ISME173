@@ -7,14 +7,28 @@
 
 ## Навыки:
 - Разработка на Unity
+* Хорошое знание C#
 * Базовый опыт работы с Git
 * Понимание принципов ООП
 * Понимание принципов SOLID
-* Знание и использование некоторых паттернов проектирования, включая паттеры семейства MV*
+* Linq
+* Знание и использование паттернов проектирования
 * Использование DI containers, Zenject
 + Некоторые умения отпимизировать игру
 
 ## Портфолио (Начиная с последнего проекта):
+
+## "Obvious Story"
+Небольшой платформер, созданный специально для портфолио. 
+
+![capture_20250213191317121](https://github.com/user-attachments/assets/01fa0a53-4fb5-4732-a877-a7a8eab5053f)
+![capture_20250213191210068](https://github.com/user-attachments/assets/34464c97-9e68-4c47-a4eb-719d3a7e123d)
+![capture_20250213191135561](https://github.com/user-attachments/assets/a2659fbb-4821-4631-b2fd-64756e5bc011)
+
+**Ссылка на мобильную версию игры в DropBox: [тык](https://www.dropbox.com/scl/fi/h2tm53nq9967weu4khb3j/ObviousStory-v0.0.0.7.apk?rlkey=8dxydhrn0ujwdig1iuii8rv5t&st=25z6ipps&dl=0).**
+**Ссылка на десктопную версию игры в DropBox: [тык](https://www.dropbox.com/scl/fo/k35vazw2tllwkxjfgzcgt/ABNKX1IVFeZGBIFB2YSb9T4?rlkey=86gj3z9cqs1bphb9n8uvllb4w&st=zxwjzmgu&dl=0).**
+
+**Ссылка на репозиторий: [тык](https://github.com/ISME173/Obvious-story).**
 
 ## "Halloween ghosts"
 Игра про сражение с волнами призраков. Выложена на Яндекс игры, где имеет категорию "Казуальные".
