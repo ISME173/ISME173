@@ -25,9 +25,9 @@
 ![capture_20250213191210068](https://github.com/user-attachments/assets/34464c97-9e68-4c47-a4eb-719d3a7e123d)
 ![capture_20250213191135561](https://github.com/user-attachments/assets/a2659fbb-4821-4631-b2fd-64756e5bc011)
 
-**Ссылка на мобильную версию игру в DropBox: [тык](https://www.dropbox.com/scl/fi/h2tm53nq9967weu4khb3j/ObviousStory-v0.0.0.7.apk?rlkey=8dxydhrn0ujwdig1iuii8rv5t&st=25z6ipps&dl=0).**
+**Ссылка на мобильную версию игры в DropBox: [тык](https://www.dropbox.com/scl/fi/h2tm53nq9967weu4khb3j/ObviousStory-v0.0.0.7.apk?rlkey=8dxydhrn0ujwdig1iuii8rv5t&st=25z6ipps&dl=0).**
 
-**Ссылка на Windows версию игру в DropBox: [тык](https://www.dropbox.com/scl/fo/k35vazw2tllwkxjfgzcgt/ABNKX1IVFeZGBIFB2YSb9T4?rlkey=86gj3z9cqs1bphb9n8uvllb4w&st=zxwjzmgu&dl=0).**
+**Ссылка на Windows версию игры в DropBox: [тык](https://www.dropbox.com/scl/fo/k35vazw2tllwkxjfgzcgt/ABNKX1IVFeZGBIFB2YSb9T4?rlkey=86gj3z9cqs1bphb9n8uvllb4w&st=zxwjzmgu&dl=0).**
 
 **Ссылка на репозиторий: [тык](https://github.com/ISME173/Obvious-story).**
 
@@ -51,9 +51,9 @@
 ![capture_20250107224627046](https://github.com/user-attachments/assets/cab777b1-bbc5-4fd5-ba15-998df1ecaff7)
 ![capture_20250107224554393](https://github.com/user-attachments/assets/8dc426fc-8f70-443c-a396-126eca14322e)
 
-**Ссылка на Windows версию игру на Itch.io: [тык](https://isme173.itch.io/whispers-in-the-dark)**
+**Ссылка на Windows версию игры на Itch.io: [тык](https://isme173.itch.io/whispers-in-the-dark)**
 
-**Ссылка на Android версию игру на DropBox: [тык](https://www.dropbox.com/scl/fi/sppsplau7wkjqoqc44ni4/Whispers-in-the-dark.apk?rlkey=0ovslo6g69c2p0i08y3t7mp6o&st=k0xrqzxt&dl=0)**
+**Ссылка на Android версию игры на DropBox: [тык](https://www.dropbox.com/scl/fi/sppsplau7wkjqoqc44ni4/Whispers-in-the-dark.apk?rlkey=0ovslo6g69c2p0i08y3t7mp6o&st=k0xrqzxt&dl=0)**
 
 ## "Zombie Town: Escape"
 Небольшой шутер, c примитивным сюжетом. Зомби апокалипсис, выживи и выберись из города. Создана под Windows.
