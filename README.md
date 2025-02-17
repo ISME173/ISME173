@@ -91,7 +91,8 @@
 
 ## "PracticingPatternsAndMechanics"
 Практика различных паттернов и механник. Будет дополняться со временем.
-**Ссылка на репозиторий: [тык]([https://www.dropbox.com/scl/fi/vm3kr4habamcti1qiau69/base-3.apk?rlkey=vtcydvskigzf5m3ien789axw5&st=mbeb69kv&dl=0](https://github.com/ISME173/PracticingPatternsAndMechanics))**
+
+**Ссылка на репозиторий: [тык](https://github.com/ISME173/PracticingPatternsAndMechanics)**
 
 ## Послесловие
 Также есть и другие небольшие проекты в Unity, в которых я практиковал конкретную механику или паттерн. В будущем я добавлю парочку подобных проектов сюда. 
