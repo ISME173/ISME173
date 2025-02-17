@@ -81,8 +81,6 @@
 
 **Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/b3jt1t13u1gz7yo8fhjkw/base.apk?rlkey=yyn3oay8k5j6o6luh81ok8nok&st=55se0wi4&dl=0)**
 
-Нажмите скачать, сразу после перехода на сайт.
-
 ## "Happy ball"
 Самая первая моя игра. Как и полагается, с кучей багов. Игра под Android, никуда не выложена.
 
@@ -91,7 +89,9 @@
 
 **Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/vm3kr4habamcti1qiau69/base-3.apk?rlkey=vtcydvskigzf5m3ien789axw5&st=mbeb69kv&dl=0)**
 
-Нажмите скачать, сразу после перехода на сайт.
+## "PracticingPatternsAndMechanics"
+Практика различных паттернов и механник. Будет дополняться со временем.
+**Ссылка на репозиторий: [тык](https://www.dropbox.com/scl/fi/vm3kr4habamcti1qiau69/base-3.apk?rlkey=vtcydvskigzf5m3ien789axw5&st=mbeb69kv&dl=0)**
 
 ## Послесловие
 Также есть и другие небольшие проекты в Unity, в которых я практиковал конкретную механику или паттерн. В будущем я добавлю парочку подобных проектов сюда. 
