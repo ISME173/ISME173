@@ -99,11 +99,6 @@
 
 **Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/vm3kr4habamcti1qiau69/base-3.apk?rlkey=vtcydvskigzf5m3ien789axw5&st=mbeb69kv&dl=0)**
 
-## "PracticingPatternsAndMechanics"
-Практика различных паттернов и механник. Будет дополняться со временем.
-
-**Ссылка на репозиторий: [тык](https://github.com/ISME173/PracticingPatternsAndMechanics)**
-
 ## Связь
 **Телеграм:** @ISME327
 
