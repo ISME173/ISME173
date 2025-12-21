@@ -21,7 +21,7 @@
 Начиная с последнего проекта. Подробнее о каждом проекте можно узнать в его README файле.
 
 - [Sorting fruits](https://github.com/ISME173/SortingFruits)
-- [Connect the fruits]()
+- [Connect the fruits](https://github.com/ISME173/ConnectTheFruit)
 - [Мёртвые рельсы]()
 - [Obvious Story]()
 - [Hallowen Ghosts]()
