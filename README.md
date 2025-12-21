@@ -23,7 +23,7 @@
 - [Sorting fruits](https://github.com/ISME173/SortingFruits)
 - [Connect the fruits](https://github.com/ISME173/ConnectTheFruit)
 - [Мёртвые рельсы](https://github.com/ISME173/DeadRails)
-- [Obvious Story]()
+- [Obvious Story](https://github.com/ISME173/Obvious-story)
 - [Hallowen Ghosts]()
 - [Шёпот во тьме]()
 - [Побег из города]()
