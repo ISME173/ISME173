@@ -2,8 +2,8 @@
 ## Unity developer
 
 ## Обо мне:
-Чуть более 1.5 лет я работаю в Unity, так или иначе создавая игры. Есть парочка коммерческих проектов, которые разрабатывал самостоятельно.
-Также работал в небольшой студии над казуальными и мидкорными играми для Яндекс игр. 
+~2 года я работаю в Unity, так или иначе создавая игры. Работал в 2 студиях, где создавал казуальные, гибрид казуальные и мидкорные игры для Яндекс игр и некоторых других Web площадок. 
+Так же есть ряд своих проектов, некоторые из которых я выложил на Яндекс игры или Itch.io
 
 ## Навыки:
 - Разработка на Unity (2d/3d, Android, WebGL, PC)
@@ -81,23 +81,6 @@
 
 Нажмите скачать, сразу после перехода на сайт.
 
-## "Little Knight" 
-Небольшой платформер на 10 уровней. Игра выложена на яндекс игры, но срок нахождения её там истёк, поэтому ссылка не будет работать.
-Она создана под Windows и Android, как веб-игра, но есть и полноценный билд под Android. 
-
-![photo_3_2025-01-08_13-19-24](https://github.com/user-attachments/assets/9510e8c7-4daa-4730-ab96-5e241459f277)
-![photo_2_2025-01-08_13-19-24](https://github.com/user-attachments/assets/42b55599-7b1e-43a2-a9ba-5215c6c451c1)
-![photo_1_2025-01-08_13-19-24](https://github.com/user-attachments/assets/6fe1a3ca-32a2-4b66-ba4b-96841c9f27b9)
-
-**Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/b3jt1t13u1gz7yo8fhjkw/base.apk?rlkey=yyn3oay8k5j6o6luh81ok8nok&st=55se0wi4&dl=0)**
-
-## "Happy ball"
-Самая первая моя игра. Как и полагается, с кучей багов. Игра под Android, никуда не выложена.
-
-![photo_2_2025-01-08_13-56-33](https://github.com/user-attachments/assets/a29caa06-adf7-4e95-8f2c-74cb757a2093)
-![photo_1_2025-01-08_13-56-33](https://github.com/user-attachments/assets/ee8c230c-77af-4a75-949d-a1848a121be4)
-
-**Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/vm3kr4habamcti1qiau69/base-3.apk?rlkey=vtcydvskigzf5m3ien789axw5&st=mbeb69kv&dl=0)**
 
 ## Связь
 **Телеграм:** @ISME327
