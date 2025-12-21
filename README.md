@@ -14,6 +14,7 @@
 * Использование библиотек для анимаций: LitMotion/DOTween
 * Использование DI containers: Reflex/Zenject
 * Использование Addressables
+* Умение работать с YG Plugin 1 и YG Plugin 2. Так же есть небольшой опыт в MirraSDK 3 и MirraSDK4
 + Умения оптимизировать игру 
 
 ## Список проектов
