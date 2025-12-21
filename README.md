@@ -22,7 +22,7 @@
 
 - [Sorting fruits](https://github.com/ISME173/SortingFruits)
 - [Connect the fruits](https://github.com/ISME173/ConnectTheFruit)
-- [Мёртвые рельсы]()
+- [Мёртвые рельсы](https://github.com/ISME173/DeadRails)
 - [Obvious Story]()
 - [Hallowen Ghosts]()
 - [Шёпот во тьме]()
