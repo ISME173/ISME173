@@ -23,6 +23,7 @@
 - [Connect the fruits]()
 - [Мёртвые рельсы]()
 - [Obvious Story]()
+- [Hallowen Ghosts]()
 - [Шёпот во тьме]()
 - [Побег из города]()
 
