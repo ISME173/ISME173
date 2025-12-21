@@ -21,7 +21,7 @@
 
 
 
-### Мёртвые рельсы
+## Мёртвые рельсы
 Игра, созданая совместно с геймдизайнером на заказ для Яндекс игр. Также совместно с геймдизайнером и Generalist'ом занимался последующим обновлением игры.
 
 ![capture_20250528162322823](https://github.com/user-attachments/assets/b58ebe69-54ec-4106-99d9-89bceade3517)
@@ -31,7 +31,7 @@
 **Ссылка на игру: [тык](https://yandex.ru/games/app/424410?lang=ru)**
 
 
-## "Obvious Story"
+## Obvious Story
 Небольшой платформер, созданный специально для портфолио. Адаптирована под Android и Windows
 
 ![capture_20250213191317121](https://github.com/user-attachments/assets/01fa0a53-4fb5-4732-a877-a7a8eab5053f)
@@ -44,7 +44,7 @@
 
 **Ссылка на репозиторий: [тык](https://github.com/ISME173/Obvious-story).**
 
-## "Halloween ghosts"
+## Halloween ghosts
 Игра про сражение с волнами призраков. Игра адаптирована под IOS и Android. Выложена на Яндекс игры, где имеет категорию "Казуальные".
 Она переведена на английский, русский и турецкий.
 
@@ -57,7 +57,7 @@
 
 **Ссылка на репозиторий: [тык](https://github.com/ISME173/Halloween-ghosts).**
 
-## "Шёпот во тьме"
+## Шёпот во тьме
 Игра, на подобии Granny. Так же хоррор, так же бродилка по дому, в поисках ключей. Создана под Windows и Android.
 
 ![capture_20241102171552011](https://github.com/user-attachments/assets/2568f25d-20a1-4eb7-8f66-e89447469cd9)
@@ -68,14 +68,14 @@
 
 **Ссылка на Android версию игры на DropBox: [тык](https://www.dropbox.com/scl/fi/sppsplau7wkjqoqc44ni4/Whispers-in-the-dark.apk?rlkey=0ovslo6g69c2p0i08y3t7mp6o&st=k0xrqzxt&dl=0)**
 
-## "Zombie Town: Escape"
+## Zombie Town: Escape
 Небольшой шутер, c примитивным сюжетом. Зомби апокалипсис, выживи и выберись из города. Создана под Windows.
 
 ![capture_20240822134616390](https://github.com/user-attachments/assets/413e67fc-f204-4d92-8027-3ae600cdaf66)
 ![capture_20240822131740923](https://github.com/user-attachments/assets/16d0bc54-7344-463a-8040-aac1d5ba3ab4)
 
 **Ссылка на игру: [тык](https://isme173.itch.io/zombie-town-escape)**
-## Безымянный мини-кликер
+### Безымянный мини-кликер
 Мини-кликер, созданый за 2 дня. Создавался с целью отвлечься от другого проекта.
 
 ![photo_2025-01-08_13-08-17](https://github.com/user-attachments/assets/977e104f-2d70-4461-bdf8-cf62f414d032)
