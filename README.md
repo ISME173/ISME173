@@ -19,7 +19,7 @@
 ## Список проектов
 Начиная с последнего проекта. Подробнее о каждом проекте можно узнать в его README файле.
 
-- [Sorting fruits]()
+- [Sorting fruits](https://github.com/ISME173/SortingFruits)
 - [Connect the fruits]()
 - [Мёртвые рельсы]()
 - [Obvious Story]()
