@@ -26,7 +26,6 @@
 - [Obvious Story](https://github.com/ISME173/Obvious-story)
 - [Hallowen Ghosts](https://github.com/ISME173/Halloween-ghosts)
 - [Шёпот во тьме](https://github.com/ISME173/GrannyType/commits/main/)
-- [Побег из города]()
 
 ## Шёпот во тьме
 Игра, на подобии Granny. Так же хоррор, так же бродилка по дому, в поисках ключей. Создана под Windows и Android.
@@ -38,14 +37,6 @@
 **Ссылка на Windows версию игры на Itch.io: [тык](https://isme173.itch.io/whispers-in-the-dark)**
 
 **Ссылка на Android версию игры на DropBox: [тык](https://www.dropbox.com/scl/fi/sppsplau7wkjqoqc44ni4/Whispers-in-the-dark.apk?rlkey=0ovslo6g69c2p0i08y3t7mp6o&st=k0xrqzxt&dl=0)**
-
-## Zombie Town: Escape
-Небольшой шутер, c примитивным сюжетом. Зомби апокалипсис, выживи и выберись из города. Создана под Windows.
-
-![capture_20240822134616390](https://github.com/user-attachments/assets/413e67fc-f204-4d92-8027-3ae600cdaf66)
-![capture_20240822131740923](https://github.com/user-attachments/assets/16d0bc54-7344-463a-8040-aac1d5ba3ab4)
-
-**Ссылка на игру: [тык](https://isme173.itch.io/zombie-town-escape)**
 
 
 ## Контакты
