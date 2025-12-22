@@ -25,7 +25,7 @@
 - [Мёртвые рельсы](https://github.com/ISME173/DeadRails)
 - [Obvious Story](https://github.com/ISME173/Obvious-story)
 - [Hallowen Ghosts](https://github.com/ISME173/Halloween-ghosts)
-- [Шёпот во тьме](https://github.com/ISME173/GrannyType/commits/main/)
+- [Шёпот во тьме](https://github.com/ISME173/GrannyType?tab=readme-ov-file)
 
 ## Контакты
 ### Telegram: [@ISME327](https://t.me/ISME327)
