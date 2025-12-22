@@ -59,17 +59,9 @@
 ![capture_20240822131740923](https://github.com/user-attachments/assets/16d0bc54-7344-463a-8040-aac1d5ba3ab4)
 
 **Ссылка на игру: [тык](https://isme173.itch.io/zombie-town-escape)**
-### Безымянный мини-кликер
-Мини-кликер, созданый за 2 дня. Создавался с целью отвлечься от другого проекта.
-
-![photo_2025-01-08_13-08-17](https://github.com/user-attachments/assets/977e104f-2d70-4461-bdf8-cf62f414d032)
-
-**Ссылка на игру в DropBox: [тык](https://www.dropbox.com/scl/fi/1azl84mwoz452ifqqdt4j/Test-Clicker-v0.0.0.3.apk?rlkey=y6hafgstfro72dzkreinz8zy6&st=in9w6sda&dl=0)**
-
-Нажмите скачать, сразу после перехода на сайт.
 
 
-## Связь
+## Контакты
 **Телеграм:** @ISME327
 
 **Почта:** ramishismatov96@gmail.com
