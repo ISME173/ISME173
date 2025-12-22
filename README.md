@@ -28,19 +28,6 @@
 - [Шёпот во тьме](https://github.com/ISME173/GrannyType/commits/main/)
 - [Побег из города]()
 
-## Halloween ghosts
-Игра про сражение с волнами призраков. Игра адаптирована под IOS и Android. Выложена на Яндекс игры, где имеет категорию "Казуальные".
-Она переведена на английский, русский и турецкий.
-
-![capture_20241128195443038](https://github.com/user-attachments/assets/9bf392df-19df-43d1-a02c-e43607341581)
-![capture_20241128195315662](https://github.com/user-attachments/assets/548a15f3-5442-4453-a10d-d78b0c9a3782)
-
-
-
-**Ссылка на игру: [тык](https://yandex.ru/games/app/390393?lang=ru).**
-
-**Ссылка на репозиторий: [тык](https://github.com/ISME173/Halloween-ghosts).**
-
 ## Шёпот во тьме
 Игра, на подобии Granny. Так же хоррор, так же бродилка по дому, в поисках ключей. Создана под Windows и Android.
 
