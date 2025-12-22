@@ -28,6 +28,6 @@
 - [Шёпот во тьме](https://github.com/ISME173/GrannyType/commits/main/)
 
 ## Контакты
-**Телеграм:** @ISME327
+**Телеграм:** [@ISME327](https://t.me/ISME327)
 
 **Почта:** ramishismatov96@gmail.com
