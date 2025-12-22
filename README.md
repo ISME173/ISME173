@@ -27,18 +27,6 @@
 - [Hallowen Ghosts](https://github.com/ISME173/Halloween-ghosts)
 - [Шёпот во тьме](https://github.com/ISME173/GrannyType/commits/main/)
 
-## Шёпот во тьме
-Игра, на подобии Granny. Так же хоррор, так же бродилка по дому, в поисках ключей. Создана под Windows и Android.
-
-![capture_20241102171552011](https://github.com/user-attachments/assets/2568f25d-20a1-4eb7-8f66-e89447469cd9)
-![capture_20250107224627046](https://github.com/user-attachments/assets/cab777b1-bbc5-4fd5-ba15-998df1ecaff7)
-![capture_20250107224554393](https://github.com/user-attachments/assets/8dc426fc-8f70-443c-a396-126eca14322e)
-
-**Ссылка на Windows версию игры на Itch.io: [тык](https://isme173.itch.io/whispers-in-the-dark)**
-
-**Ссылка на Android версию игры на DropBox: [тык](https://www.dropbox.com/scl/fi/sppsplau7wkjqoqc44ni4/Whispers-in-the-dark.apk?rlkey=0ovslo6g69c2p0i08y3t7mp6o&st=k0xrqzxt&dl=0)**
-
-
 ## Контакты
 **Телеграм:** @ISME327
 
