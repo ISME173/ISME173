@@ -28,17 +28,6 @@
 - [Шёпот во тьме](https://github.com/ISME173/GrannyType/commits/main/)
 - [Побег из города]()
 
-
-## Мёртвые рельсы
-Игра, созданая совместно с геймдизайнером на заказ для Яндекс игр. Также совместно с геймдизайнером и Generalist'ом занимался последующим обновлением игры.
-
-![capture_20250528162322823](https://github.com/user-attachments/assets/b58ebe69-54ec-4106-99d9-89bceade3517)
-![capture_20250528160830741](https://github.com/user-attachments/assets/62972556-4ef1-4eca-85b9-baf5c4cbaebe)
-![capture_20250528160259598](https://github.com/user-attachments/assets/0e1dccb7-e6ff-42f9-a0a2-d220840b20b7)
-
-**Ссылка на игру: [тык](https://yandex.ru/games/app/424410?lang=ru)**
-
-
 ## Obvious Story
 Небольшой платформер, созданный специально для портфолио. Адаптирована под Android и Windows
 
